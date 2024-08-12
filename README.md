@@ -1,9 +1,6 @@
-# Settime-indo
-VPS Set Time Automatic Asia Jakarta With Bash File 
+## Settime Automatic For VPS Pterodactyl Server
 
-
-
-# INSTALLATION
+### INSTALLATION
 
 RUN THIS COMMAND TO YOUR VPS WITH 1 COMMAND
 
